@@ -1,4 +1,5 @@
 node_modules/
+node_modules_b-up/
 .expo/
 dist/
 npm-debug.*
@@ -10,7 +11,8 @@ npm-debug.*
 *.orig.*
 web-build/
 
-
+# VS CODE Settings
+.vscode/
 
 
 ios

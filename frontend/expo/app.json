@@ -1,8 +1,10 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "garage-sale-app",
+    "slug": "garage-sale-app",
+    "scheme": "garage-sale-app",
     "version": "1.0.0",
+    "expo.entryPoint": "./src/app/index.tsx",
 
     "web": {
       "favicon": "./assets/favicon.png"
